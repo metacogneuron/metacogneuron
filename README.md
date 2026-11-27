@@ -4,7 +4,7 @@
 
 My work sits between research and applied engineering. On one side, I build language technology for low-resource African languages, mostly Yorùbá, covering diacritic restoration, AI-text detection, and translation-quality evaluation. On the other, I build agentic systems that move past static text processing into reasoning, planning, and autonomous execution. I have released two arXiv preprints, Yo-ByT5 and AfriNORM, co-authored a paper at the EACL 2026 AfricaNLP workshop, and keep a handful of models and demos on the Hugging Face Hub.
 
-Alongside the building, I write. Putting ideas into words is how I think through problems, and I publish short essays on applied AI and African NLP on [Medium](https://medium.com/@lazy-monster).
+Alongside the building, I write. Putting ideas into words is how I think through problems, and I publish short essays on applied AI and African NLP on [Medium](https://medium.com/@metacogneuron).
 
 ## Selected projects
 
@@ -49,4 +49,4 @@ Co-authored work using multilingual LLMs to audit translation quality across 11 
 
 Open to research collaborations, contract work, and full-time roles in NLP and agentic AI engineering.
 
-[Email](mailto:galisamuel97@gmail.com) · [LinkedIn](https://www.linkedin.com/in/samuelgali/) · [X](https://x.com/metacogneuron) · [Medium](https://medium.com/@lazy-monster) · [Hugging Face](https://huggingface.co/lazymonster)
+[Email](mailto:galisamuel97@gmail.com) · [LinkedIn](https://www.linkedin.com/in/samuelgali/) · [X](https://x.com/metacogneuron) · [Medium](https://medium.com/@metacogneuron) · [Hugging Face](https://huggingface.co/lazymonster)
