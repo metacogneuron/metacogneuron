@@ -49,4 +49,4 @@ Co-authored work using multilingual LLMs to audit translation quality across 11 
 
 Open to research collaborations, contract work, and full-time roles in NLP and agentic AI engineering.
 
-[Email](mailto:galisamuel97@gmail.com) · [LinkedIn](https://www.linkedin.com/in/samuelgali/) · [X](https://x.com/lazy_maxxing) · [Medium](https://medium.com/@lazy-monster) · [Hugging Face](https://huggingface.co/lazymonster)
+[Email](mailto:galisamuel97@gmail.com) · [LinkedIn](https://www.linkedin.com/in/samuelgali/) · [X](https://x.com/metacogneuron) · [Medium](https://medium.com/@lazy-monster) · [Hugging Face](https://huggingface.co/lazymonster)
