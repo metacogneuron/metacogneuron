@@ -1,6 +1,6 @@
 # Samuel Gali
 
-**AI Forward Deployed Engineer at Transsion and Computer Science graduate of the University of Lagos (First Class), researching African NLP and building agentic AI systems.**
+**AI Forward Deployed Engineer at Transsion and Computer Science graduate of the University of Lagos, researching African NLP and building agentic AI systems.**
 
 My work sits between research and applied engineering. On one side, I build language technology for low-resource African languages, mostly Yorùbá, covering diacritic restoration, AI-text detection, and translation-quality evaluation. On the other, I build agentic systems that move past static text processing into reasoning, planning, and autonomous execution. I have released two arXiv preprints, Yo-ByT5 and AfriNORM, co-authored a paper at the EACL 2026 AfricaNLP workshop, and keep a handful of models and demos on the Hugging Face Hub.
 
